@@ -130,7 +130,7 @@ Skills based review for the Junior Web Developer CSS Introduction lesson.
 22. Add a `#concert-schedule-sec h3` element selector ruleset directly underneath the last selector.
 	- Add a `font-size` property with a value of `2em`;
 
-Last: Continue to modify the colors, borders, and transitions however you like to make the page look more legit! Experiment with positioning, margins, padding, user-experience, etc.
+Last: Continue to modify the colors, borders, and transitions however you like with the remaining elements! Experiment with positioning, margins, padding, user-experience, etc.
 
 *** BONUS ***
 

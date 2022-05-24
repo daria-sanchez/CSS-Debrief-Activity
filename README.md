@@ -2,7 +2,7 @@
 
 Skills based review for the Junior Web Developer CSS Introduction lesson.
 
-## Directions
+### Directions
 
 - When you get into your breakout room, select a team member to share their screen and record the answers the team finds
 - With your Breakout Team, scroll through the CSS Code below and answer the questions in the comments
@@ -14,9 +14,9 @@ Skills based review for the Junior Web Developer CSS Introduction lesson.
 - If you finish early, try the *BONUS* questions at the bottom of the file, and/or explore any concepts you come across that you find interesting or want to learn more about!
 - HAVE FUN! :)
 
-### Activity
+## Activity
 
-## Part 1 - Clone the project
+## Part 1 - Fork & Clone the project
 
 * Begin by _forking_ this project into a personal repository.
   * To do this, click the `Fork` button located at the top right of this page.
@@ -28,10 +28,10 @@ Skills based review for the Junior Web Developer CSS Introduction lesson.
 
 * from a text editor (i.e. - Visual Studio Code), select:
   * `File` > `Add Folder to WorkSpace`
-    * Select the directory you use to store your projects (ex. `dev` directory)
-    * From the text editor,in the directory you use to store your projects (ex. `dev` directory), locate the newly cloned project
-    * Expand the project from the _project explorer (may just be called `explorer`)_
-    * Modify the `index.html` and `style.css` per the directions provided.
+  * Select the directory you use to store your projects (ex. `dev` directory)
+  * From the text editor,in the directory you use to store your projects (ex. `dev` directory), locate the newly cloned project
+  * Expand the project from the _project explorer (may just be called `explorer`)_
+  * Modify the `index.html` and `style.css` per the directions provided.
 
 1. Open in browser/live server so you can see your changes
 

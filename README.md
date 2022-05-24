@@ -43,7 +43,7 @@ Skills based review for the Junior Web Developer CSS Introduction lesson.
 
 3. Add a universal selector at the top of the CSS file (`*`), and within that ruleset -- add a property of `box-sizing` with a value of `border-box`
 
-
+#### Typography
 
 4. Change the font on the page to be more modern.
 		- Go to the [Google Fonts website](https://fonts.google.com) and find the `'Open Sans'` font.
@@ -52,6 +52,8 @@ Skills based review for the Junior Web Developer CSS Introduction lesson.
 		- Copy the entire `font-family rule`, and paste in Step 5.
 
 5. In the `body` selector ruleset, add a font-family property with a value of `'Open Sans', sans-serif`
+
+#### Style
 
 6. On the same `body` selector, replace the `background-color property` with the `background-image property`. Add a value of `linear gradient` with `whitesmoke` as the first value, and `rgb(35, 47, 58)` as the second value.
 

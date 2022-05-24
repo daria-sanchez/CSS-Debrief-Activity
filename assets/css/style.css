@@ -25,21 +25,17 @@ li a:hover {
 }
 
 /* Header Styles */
-
-
+/*
+header {
+	background-color:
+}
+h1 {
+	color:
+} */
 
 
 /* Main Page Content Styles */
 
-#main,
-#section {
-	display: flex;
-		justify-content: center;
-}
-
-#main {
-	background-color: rgba(255,255,255,0.8);
-}
 section {
 	display: flex;
 	justify-content: center;
@@ -64,10 +60,6 @@ section {
 }
 figure {
 	display: flex;
-
-}
-
-figure img {
 
 }
 

@@ -57,6 +57,18 @@ section {
 	display: flex;
 	flex-direction: column;
 }
+#about-sec h2 {
+	font-size: 1.95em;
+	padding: 0 1.5em;
+}
+
+#about-sec {
+	padding: 0 2.5em;
+}
+
+#about-blurb {
+	padding: 0 2.5em;
+}
 #about-sec div {
 	display: inline-flex;
 		flex-direction: row;

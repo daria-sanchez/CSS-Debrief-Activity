@@ -69,6 +69,15 @@ figure {
 	flex-direction: column;
 }
 
+figcaption {
+	font-style: italic;
+	background-color: rgba(35, 47, 58);
+	color: whitesmoke;
+	padding: 0.25em;
+	opacity: 0.5;
+	font-size: 0.85em;
+}
+
 /* Aside Styles */
 aside {
 	display: flex;

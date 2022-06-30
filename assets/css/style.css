@@ -79,6 +79,18 @@ aside {
 	background-color: rgba(35, 47, 58, 0.05);
 }
 
+aside p {
+	font-weight: 600;
+	font-size: 1.25em;
+	background-color: rgb(35, 47, 58);
+	color: whitesmoke;
+	padding: 0.5em;
+	margin: 0;
+	text-transform: uppercase;
+	border-bottom: 4px double rgba(0, 0, 0, 0.77);
+	opacity: 0.6;
+}
+
 /* Table - Concert Schedule Styles */
 #concert-schedule-sec {
 	max-width: 940px;

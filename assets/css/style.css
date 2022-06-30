@@ -91,6 +91,12 @@ aside p {
 	opacity: 0.6;
 }
 
+aside ul li a {
+	text-align: justify;
+	padding: 0;
+	color: rgb(35, 47, 58);
+	text-decoration: underline;
+}
 /* Table - Concert Schedule Styles */
 #concert-schedule-sec {
 	max-width: 940px;

@@ -26,7 +26,7 @@ li a {
 	text-align: center;
 }
 li a:hover {
-	background-color: rgb(40, 39, 39);
+	background-color: lightgrey;
 }
 
 /* Header Styles */
@@ -56,7 +56,7 @@ section {
 #about-sec {
 	display: flex;
 	flex-direction: column;
-}
+	}
 #about-sec h2 {
 	font-size: 1.95em;
 	padding: 0 1.5em;
@@ -88,6 +88,7 @@ figcaption {
 	padding: 0.25em;
 	opacity: 0.5;
 	font-size: 0.85em;
+	text-align: center;
 }
 
 /* Aside Styles */
@@ -116,6 +117,8 @@ aside ul {
 	font-size: 0.9em;
 	margin: 1em;
 	padding: 0 0.75em 0 1em;
+	color: black;
+	line-height: 4.5em;
 }
 
 aside ul li a {
@@ -126,10 +129,17 @@ aside ul li a {
 }
 /* Table - Concert Schedule Styles */
 #concert-schedule-sec {
-	max-width: 940px;
+	width: 100vw;
 	margin: 0 auto;
 	height: max-content;
+	color: rgb(255, 54, 154);
+	background-color: black;
+	padding: 2em;
 	}
+
+#concert-schedule-sec h3 {
+	font-size: 2em;
+}
 
 /* Form - Ticket Form Styles */
 form {

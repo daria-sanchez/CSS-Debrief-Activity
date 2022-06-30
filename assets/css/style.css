@@ -91,6 +91,12 @@ aside p {
 	opacity: 0.6;
 }
 
+aside ul {
+	font-size: 0.9em;
+	margin: 1em;
+	padding: 0 0.75em 0 1em;
+}
+
 aside ul li a {
 	text-align: justify;
 	padding: 0;
